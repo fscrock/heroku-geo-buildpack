@@ -2,7 +2,7 @@ Heroku buildpack: geo
 =====================
 
 This is a [Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks) that
-vendors main geo/gis libraries like geos, proj and gdal.
+vendors main geo/gis libraries like geos, proj.
 
 It is meant to be used in conjunction with other buildpacks as part of a
 [multi-buildpack](https://github.com/ddollar/heroku-buildpack-multi).
